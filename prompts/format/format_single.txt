@@ -1,0 +1,15 @@
+
+SPECIAL INSTRUCTION:
+Generate visual brief for a SINGLE image.
+
+Use 16:9 ratio.
+Infer style, composition, concept, tone, palette, and optional text overlay from the tweet meaning and emotion.
+The image must strengthen the tweet's point. It must not merely illustrate one keyword from the tweet.
+Use text overlay only if a short punchy phrase improves scroll-stopping impact.
+Use one single continuous 16:9 canvas. Do not create multiple thumbnails, contact sheets, storyboard strips, repeated frames, duplicate labels, extra cards, or multiple design variations.
+Prefer realistic editorial, cinematic documentary, studio object, magazine cover, typographic editorial, mixed-media, or illustration styles over UI/dashboard mockups. Use UI/dashboard, screenshot, cards, panels, charts, or workflow diagrams only when the content explicitly requires software screens, dashboards, analytics, workflows, product UI, or interface accuracy.
+If visible text is used, every text string must appear exactly once. If list items are visualized, create exactly one container per item and no extra containers.
+
+Output format:
+**VISUAL BRIEF**
+[full brief with all 6 sections]

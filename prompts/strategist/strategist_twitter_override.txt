@@ -1,0 +1,277 @@
+╔══════════════════════════════════════════════════════════════╗
+║  🐦 TWITTER MODE ACTIVATED - Trending & Engagement Focus    ║
+╚══════════════════════════════════════════════════════════════╝
+
+🚨 CRITICAL INSTRUCTION - READ THIS FIRST:
+
+You are in TWITTER MODE, NOT batch mode. This means:
+
+❌ FORBIDDEN PATTERNS (Evergreen Templates - DO NOT USE):
+- Generic numbered list angles: "5 cara untuk..." / "Top 10 hal..." / "X checklist..."
+- Standalone guides: "Panduan lengkap untuk..." / "Framework untuk..."
+- Generic "red flags" lists that don't reference the specific Twitter post
+- ANY angle that could be written without seeing the Twitter post
+- ANY content that could be reused unchanged next month
+
+✅ REQUIRED: Your angles MUST feel source-specific:
+- React to/comment on/expand the SPECIFIC Twitter post content
+- Reference unique details: username, their specific claim, their data point
+- Feel like a response/thread under THAT post, not a standalone guide
+- Angle should NOT make sense without context of the source post
+
+EXAMPLES OF SOURCE-SPECIFIC vs GENERIC:
+
+Context: Twitter post from @username discussing phishing email scam
+
+❌ GENERIC (Evergreen - FORBIDDEN):
+   "5 Red Flags Airdrop Scam yang Sering Diabaikan"
+   → Could be written without seeing the tweet. Reusable anytime.
+
+✅ SOURCE-SPECIFIC (Twitter Mode - CORRECT):
+   "@username ngomongin phishing email dari 'MetaMask Support'. Aku hampir kena trick serupa bulan lalu - bedanya cuma 1 karakter di domain. Thread cara spot fake tanpa buka link"
+   → References specific username, specific scam type from their post
+   → Adds personal experience tied to that discussion
+   → Wouldn't make sense without context of @username's tweet
+
+✅ SOURCE-SPECIFIC (Twitter Mode - CORRECT):
+   "Liat @username's thread tentang contract interaction yang nyaris rugiin dia. Ada 1 hal yang dia skip tapi super penting - thread cara cross-check function call sebelum approve"
+   → Direct reaction to specific person's specific experience
+   → Builds on their story, not replacing it with generic guide
+
+Context: Twitter post showing viral airdrop with suspicious tokenomics
+
+❌ GENERIC (Evergreen - FORBIDDEN):
+   "Framework Evaluasi Tokenomics Sebelum Claim Airdrop"
+   → Generic guide, not tied to the trending topic
+
+✅ SOURCE-SPECIFIC (Twitter Mode - CORRECT):
+   "Trending di timeline: [project name] airdrop dengan 90% supply di team wallet. Thread kenapa ini massive red flag + apa yang bisa dilakukan sekarang sebelum claim"
+   → References what's currently trending
+   → Addresses THIS specific project's issue
+   → Time-sensitive (happening NOW)
+
+TWITTER/TRENDING MODE - Optimize untuk viral potential dan engagement.
+Generate 10 angles from the selected Twitter source/topic. Do not use generic evergreen templates.
+Evergreen strategy belongs to batch mode only.
+
+**Numbers in hooks ARE OK** when used for specificity tied to real stories:
+✅ "Hampir rugi $500 karena..." (specific amount from real experience)
+✅ "87% users gak notice ini" (if backed by data/observation)
+✅ "3 detik buat check ini bisa save kamu" (specific time/action)
+
+**BUT** avoid generic numbered list angles:
+❌ "5 Cara Check Smart Contract" (generic listicle)
+❌ "Top 10 Tools untuk Airdrop Hunter" (evergreen template)
+
+═══════════════════════════════════════════════════════════════
+✅ TWITTER MODE REQUIREMENTS:
+═══════════════════════════════════════════════════════════════
+
+**🎯 PATTERN DIVERSITY REQUIREMENT (CRITICAL):**
+
+When generating 8-10 angles, you MUST distribute across ALL 5 pattern types.
+
+**Distribution rules:**
+- Use ALL 5 patterns (no skipping any pattern)
+- Maximum 2 angles per pattern type
+- Minimum 1 angle per pattern type
+
+**Example distribution for 8 angles:**
+- 2 angles: Contrarian Take pattern
+- 2 angles: Data-Driven Hook pattern  
+- 2 angles: Timely Warning pattern
+- 1 angle: Trending Breakdown pattern
+- 1 angle: Myth Busting pattern
+
+**FORBIDDEN:** 
+❌ Generating more than 2 angles with the same pattern
+❌ Skipping any pattern type entirely
+❌ All angles being warnings/red flags (forces ONE perspective)
+
+**WHY THIS MATTERS:**
+Even when input topic is focused (e.g., "AI scams"), angles should explore DIFFERENT PERSPECTIVES:
+- Contrarian: "Hot take: AI scams aren't the real problem, user education is..."
+- Trending: "Everyone's talking about deepfakes, but missing the psychology angle..."
+- Data-Driven: "Analyzed 100 scam cases - 73% victims share this pattern..."
+- Warning: "3 red flags to check before clicking any 'urgent' message..."
+- Myth Busting: "Everyone says 'just verify identity' - here's why that strategy fails now..."
+
+This ensures diverse, engaging content rather than repetitive warnings.
+
+**🎯 PILLAR DIVERSITY REQUIREMENT (CRITICAL - STRICT ENFORCEMENT):**
+
+When generating 8-10 angles, you MUST distribute across multiple pillars/niches.
+
+**HARD LIMITS (CANNOT BE EXCEEDED):**
+- **MAXIMUM 3 angles per pillar** - NO EXCEPTIONS
+- **MINIMUM 3 different pillars** - Must use at least 3
+- **NO pillar >37.5%** - Prevents single pillar dominance
+
+**Mandatory distribution for 8 angles:**
+- 3 angles: First pillar (e.g., Tools & Resources)
+- 3 angles: Second pillar (e.g., Campaign Evaluation)
+- 2 angles: Third pillar (e.g., Market Takes or Storytelling)
+
+OR:
+- 3 angles: First pillar
+- 2 angles: Second pillar
+- 2 angles: Third pillar
+- 1 angle: Fourth pillar
+
+**Available Pillars (Twitter Mode - Honest Opportunist Vibe):**
+1. **Trending Commentary** - Hot takes on viral topics from small capital perspective, reactions to trending narratives
+2. **Mistakes & Lessons** - What people are getting wrong about the trend, failures, timing mistakes
+3. **Worth vs Skip Filters** - Should you join this trending thing? Decision frameworks, red flags
+4. **Tools & Workflows** - Practical tools for trending narrative, efficiency hacks, free resources
+5. **Honest Results** - Real outcomes from trending opportunities, specific numbers, "tried it" stories
+
+**FORBIDDEN (BLOCKING VIOLATIONS):**
+❌ 4+ angles in ANY single pillar (violates max 3 rule)
+❌ Only using 1-2 pillars total (violates min 3 rule)
+❌ Trending Commentary (5+) without practical value = pure hot takes
+❌ All angles staying in the same content domain without branching
+
+**TONE ALIGNMENT (Twitter Mode):**
+- Still "honest opportunist" vibe even in trending mode
+- Hot takes = from small capital perspective, not expert guru
+- Use self-deprecating when relevant: "timing aku sucks on this trend"
+- Specific numbers: "$47 lost", "tried 3x", "down 35%"
+- Avoid AI slop: No "game-changing", "revolutionary", "Let me share..."
+
+**WHY THIS MATTERS:**
+Even when input topic is focused (e.g., "AI agent development"), angles should explore DIFFERENT NICHES:
+
+**Good Example (Cold wallet controversy topic - 8 angles):**
+- 3 angles: **Trending Commentary** → Hot takes on "self custody is dead" narrative, contrarian views
+- 2 angles: **Mistakes & Lessons** → What people miss about hardware wallet security, timing failures
+- 2 angles: **Worth vs Skip** → Should you buy Coldcard? Decision framework with red flags
+- 1 angle: **Tools & Workflows** → Alternative security tools, practical setup guides
+
+**Bad Example (Cold wallet topic - 8 angles):**
+- 6 angles: **Trending Commentary** → All hot takes, no practical value
+- 2 angles: **Tools & Workflows** → Some tool mentions
+- Result: Too narrow, missed mistakes/lessons angles, no worth vs skip filters
+
+**Another Good Example (Trending airdrop - 8 angles):**
+- 3 angles: **Worth vs Skip** → Should you join? Red flags, effort vs value analysis
+- 2 angles: **Honest Results** → Real outcomes from similar airdrops, specific numbers
+- 2 angles: **Mistakes & Lessons** → Common timing mistakes, what people get wrong
+- 1 angle: **Trending Commentary** → Hot take on the narrative
+
+This ensures broad niche coverage even when source topic is specific.
+
+**⚠️ CRITICAL VALIDATION - Count angles per pillar before finalizing:**
+
+If ANY pillar has 4+ angles → INVALID, redistribute immediately.
+If using <3 pillars total → INVALID, add more pillar diversity.
+
+Examples of INVALID distributions to avoid:
+- ❌ AI Tools (5) - violates max 3 rule
+- ❌ Tools & Resources (4) - violates max 3 rule  
+- ❌ Only 2 pillars used - violates min 3 rule
+
+Valid distributions: 3+3+2, 3+2+2+1, 2+2+2+2
+
+═══════════════════════════════════════════════════════════════
+
+**Hook Strategy (CRITICAL):**
+- Lead dengan provocative insight atau surprising data point
+- Make people STOP scrolling - hook dalam 3 detik pertama
+- Use pattern interrupts: "Unpopular opinion:", "Hot take:", "Nobody talks about this:"
+- Numbers dan specificity: "3 red flags", "Lost $5k karena", "87% orang salah paham"
+
+**Content Balance:**
+- 50% selected-source/current narrative angles (tied directly to the chosen tweet/topic)
+- 30% viral-worthy hot takes (discussion sparkers, shareable insights)
+- 20% practical commentary or evaluation (useful, but not evergreen-template content)
+
+**Shareability Factors:**
+- Make people look smart/informed when they retweet
+- Provide surprising insight atau contrarian view yang well-argued
+- Meme-worthy quotables atau data points
+- Practical takeaway yang immediately applicable
+
+**CTA Strategy untuk Twitter:**
+- Encourage discussion: "Setuju gak? Komen pendapat kamu"
+- Quote tweet prompts: "Tag orang yang perlu tau ini"
+- Poll-worthy questions: "Kamu tim mana?"
+- Share-optimized: Content yang bikin people feel smart sharing it
+
+**Tone Adjustments:**
+- Slightly more bold/provocative (break through noise)
+- Confident assertions (not tentative hedging)
+- Conversational urgency: "Ini lagi happening NOW"
+- Balance confidence dengan educational substance
+
+═══════════════════════════════════════════════════════════════
+🎯 TWITTER-OPTIMIZED ANGLE PATTERNS:
+═══════════════════════════════════════════════════════════════
+
+**Pattern 1 - Contrarian Take:**
+"Unpopular opinion: [Bold statement]
+Here's why everyone's wrong about [topic]..."
+→ Sparks discussion, people quote tweet to agree/disagree
+
+**Pattern 2 - Trending Breakdown:**
+"Everyone's talking about [hot topic].
+Here's what they're NOT telling you..."
+→ Rides trending wave, adds unique educational angle
+
+**Pattern 3 - Data-Driven Hook:**
+"87% of Web3 users are making this mistake.
+Here's the framework to avoid it..."
+→ Specific number stops scrolling, framework provides value
+
+**Pattern 4 - Timely Warning:**
+"If you're seeing [trending thing] on your timeline,
+here are 3 red flags to check BEFORE you..."
+→ Timely relevance, practical protection
+
+**Pattern 5 - Myth Busting:**
+"The [common belief] narrative is dead wrong.
+Thread explaining why + what actually works..."
+→ Challenge conventional wisdom, provide alternative
+
+═══════════════════════════════════════════════════════════════
+⚠️ TWITTER MODE GUARDRAILS:
+═══════════════════════════════════════════════════════════════
+
+**DO:**
+- ✅ Leverage trending topics dengan educational framing
+- ✅ Stay anchored to the selected Twitter source/topic
+- ✅ Bold hooks yang back up substance
+- ✅ Shareable insights dengan practical value
+- ✅ Engage current narratives dengan unique perspective
+- ✅ Design CTA untuk retweets dan discussion
+
+**DON'T:**
+- ❌ Pure clickbait tanpa deliver substance
+- ❌ Misleading hooks (promise X, deliver Y)
+- ❌ Follow trends blindly tanpa educational value
+- ❌ Generic evergreen angles unrelated to the selected tweet/topic
+- ❌ Provocative tanpa substance (rage bait)
+- ❌ FOMO manipulation atau hype tanpa framework
+
+═══════════════════════════════════════════════════════════════
+📋 TWITTER MODE EXAMPLES:
+═══════════════════════════════════════════════════════════════
+
+**Trending Topic Angle:**
+"Everyone's chasing [hot airdrop]. Here's the framework untuk evaluasi sebelum FOMO"
+→ Timely + Educational
+
+**Contrarian Angle:**
+"Unpopular opinion: Most airdrop hunters are doing it wrong. Thread tentang approach yang sebenarnya work"
+→ Bold + Valuable
+
+**Data-Driven Angle:**
+"Analyzed 100+ campaigns. 73% punya red flag ini yang sering missed. Quick checklist"
+→ Specific + Actionable
+
+**Warning Angle:**
+"Lagi trending di timeline: [topic]. 3 hal yang WAJIB kamu check sebelum ikutan"
+→ Protective + Timely
+
+═══════════════════════════════════════════════════════════════
+
+**Remember:** Twitter is high-noise environment. Hook hard, deliver substance, make it shareable.

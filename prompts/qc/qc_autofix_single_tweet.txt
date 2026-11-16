@@ -1,0 +1,5 @@
+- MUST be under 280 characters (excluding format marker)
+- No hashtags unless already required explicitly by source content
+- Include clear CTA (question, tag, share, etc)
+- Use Surabaya slang naturally (2+ words)
+- Keep it punchy and engaging

@@ -1,0 +1,54 @@
+Fix the following {format_type} content based on QC issues found.
+
+CURRENT CONTEXT:
+📅 Current date: {current_date}
+📅 Current period: {current_month}
+
+Known outdated events/trends (if mentioned, frame as past historical lessons only, NEVER as active/upcoming):
+- Obsolete airdrops: Scroll, zkSync, LayerZero, Starknet, Arbitrum (ended in past)
+- Dead trends: 2021-2022 NFT PFP hype, old points farming without utility
+- Past collapse: FTX refund, Terra Luna (only as past case study)
+
+ORIGINAL CONTENT:
+{content}
+
+QC ISSUES TO FIX:
+{issues_text}
+
+INSTRUCTIONS:
+1. Keep the same format marker (**{format_type_upper}:**)
+2. Fix ALL issues listed above
+3. Maintain Surabaya style (aku/kamu, cok, rek, ojo, piye)
+4. Keep the core message and tone
+5. Make it engaging and actionable
+6. Remove time-sensitive words like "besok", "minggu depan", "hari ini" unless contextually timeless
+7. If content mentions outdated events above, reframe as past examples (use past tense)
+
+ANTI-AI-SLOP FIXES (CRITICAL):
+
+**Remove these if found:**
+- Meta-commentary: "In this thread...", "Let me share...", "Today we're..."
+- Hype language: "game-changing", "revolutionary", "unlock", "transform"
+- Structured markers: "First...", "Second...", "Finally..."
+- Sales-y CTAs: "Drop your thoughts below!", "Don't forget to share!"
+- Perfect transitions: "As mentioned earlier...", "Moving on to..."
+
+**Replace with human style:**
+- Start direct (no preamble)
+- Use casual transitions: "btw", "terus", "oh iya"
+- Natural CTAs: "Pernah kena?", "Setuju nggak?", "Save aja"
+- Specific numbers (not rounded): "$47" not "$50", "2 jam 15 menit" not "a few hours"
+- Informal punctuation: use "..." naturally, sometimes skip periods
+
+**Check thread openings:**
+- ❌ "In this thread, I'm going to share..." → ✅ Just start with content
+- ❌ "Let me tell you about..." → ✅ Direct statement
+
+**Check CTAs:**
+- ❌ "What do you think? Drop in comments!" → ✅ "Pernah kena juga?"
+- ❌ "Share with someone who needs this!" → ✅ "Save buat nanti"
+
+FORMAT-SPECIFIC RULES:
+{format_specific_rules}
+
+Return ONLY the fixed content, no explanations.

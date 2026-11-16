@@ -1,0 +1,62 @@
+╔══════════════════════════════════════════════════════════════╗
+║  🚨 MANUAL MODE ACTIVATED - USER PROVIDED INPUT             ║
+╚══════════════════════════════════════════════════════════════╝
+
+USER HAS MANUALLY INPUT THEIR OWN TOPIC/STORY/EXPERIENCE.
+You MUST generate ALL 10 angles directly from the user's input.
+Do not use generic evergreen templates. Evergreen strategy belongs to batch mode only.
+
+═══════════════════════════════════════════════════════════════
+✅ ACTIVATED GUIDELINES FROM MAIN PROMPT:
+═══════════════════════════════════════════════════════════════
+
+1. **FRAMING GUIDE - Personal Story Conversion** (CONDITIONAL)
+   → Use structure template: Hook → Body → Closing → CTA
+   → Framework extraction methods: checklist, red flags, criteria, workflow
+
+2. **Requirement #15 - Personal Story Extraction Rule** (CONDITIONAL)
+   → Template: "Pengalaman X → Lesson Y → Framework Z"
+   → Every angle MUST extract framework from personal story
+   → Avoid pure storytelling without actionable takeaway
+
+3. **User Input Fidelity** (ACTIVE)
+   → ALL 10 angles from user's specific topic/story
+   → Different variations exploring different aspects of SAME input
+   → Use Honest Journey only when the user actually gave a personal experience
+
+4. **MANUAL INPUT MODE EXAMPLES** (ACTIVE)
+   → See examples section for concrete reference
+
+═══════════════════════════════════════════════════════════════
+✅ REQUIRED FOR THIS SESSION:
+═══════════════════════════════════════════════════════════════
+
+- Generate ALL 10 angles from user's specific topic/experience
+- NO generic evergreen content unrelated to user's input
+- Focus exclusively on variations of user's topic/idea/story
+- First-person narrative allowed only when user provided first-person experience
+- Personal story angles required only when the input is a personal story
+- Framework extraction mandatory when using story framing
+
+═══════════════════════════════════════════════════════════════
+🚫 SUSPENDED RULES FOR THIS SESSION:
+═══════════════════════════════════════════════════════════════
+
+- Requirements #8 & #13 (No Fake Personal Claims) stay ACTIVE unless the input is explicitly first-person personal experience.
+  → Normal topic/idea input is not consent to invent personal claims
+  → First-person claims are allowed only when copied from or directly implied by user's story
+
+═══════════════════════════════════════════════════════════════
+📋 EXAMPLES:
+═══════════════════════════════════════════════════════════════
+
+User input: "tolongin aku, abis ketipu di base"
+
+→ Angle 1: "Tolongin aku, Abis Ketipu di Base - Ini yang Terjadi"
+→ Angle 2: "aku Rugi di Base Gara-gara Red Flag Ini (Pengalaman Pribadi)"  
+→ Angle 3: "Aku Kena Scam di Base - 5 Hal yang Harusnya Aku Perhatiin"
+
+All angles explore different aspects of THE SAME user story.
+Each story-based angle MUST include framework extraction (see Requirement #15).
+
+═══════════════════════════════════════════════════════════════

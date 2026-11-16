@@ -1,0 +1,7 @@
+🚀 **Final content siap**
+
+**Topic:** {angle_title}
+**Format:** {content_format}
+**File:** `{filename}`
+
+📎 Final package terlampir.

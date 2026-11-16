@@ -1,0 +1,85 @@
+
+SPECIAL INSTRUCTION FOR THREAD FORMAT:
+This thread has multiple tweets. Generate visual brief for:
+1. HEADER IMAGE (Tweet 1) - ALWAYS generate (critical for timeline visibility)
+2. ADDITIONAL IMAGES (Tweet 2-12) - GENERATE WHEN A TWEET WOULD BE USEFUL AS A STANDALONE VISUAL
+
+DEFAULT BEHAVIOR: Generate the header image plus 1-3 additional images when the thread contains practical teaching points. Most educational Web3 threads benefit from at least one supporting visual beyond the header.
+
+ADDITIONAL IMAGES: Generate if a tweet contains:
+  ✅ Data/statistics that MUST be visualized (charts, graphs, numbers)
+  ✅ Framework/checklist/evaluation criteria (can become a card, matrix, or checklist)
+  ✅ Step-by-step workflow or process (can become a simple flow diagram)
+  ✅ Red flags, warning signs, or risk categories (can become a warning card/grid)
+  ✅ Concrete example/case breakdown (can become a before/after or annotated case card)
+  ✅ Tool stack, research workflow, or practical use-case list
+  ✅ Complex system diagram (architecture, workflow, process)
+  ✅ Critical comparison requiring visual split-screen (A vs B with clear differences)
+  
+  ❌ DO NOT generate for:
+  - Storytelling tweets (anecdotes, experiences, narratives)
+  - Opinion/commentary tweets (thoughts, analysis, takes)
+  - Transition tweets ("But here's the thing...", "Here's why...")
+  - Generic text-based lists with no practical checklist/framework value
+  - Call-to-action tweets
+  - Summary/conclusion tweets
+  - Tweets that work perfectly fine as text
+
+IF UNCERTAIN between two useful candidates → choose the more practical one. Do not force weak visuals, but do not stop at header-only when the thread has clear frameworks, checklists, red flags, workflows, examples, or use cases.
+
+Use 16:9 ratio for every thread image.
+All images must share one visual language, one style family, one palette, one lighting/mood, one typography treatment, and one layout system. Create one STYLE LOCK before writing the header, repeat full lock in every STYLE section, and include one short matching style-lock phrase in every HEADER IMAGE and ADDITIONAL IMAGE GENERATION PROMPT.
+Only the tweet-specific subject/concept changes per image.
+Header image must represent the full thread as a scroll-stopping cover.
+Additional tweet images must support specific ideas without chapter cues, thread labels, numbering, or visible sequence markers.
+Do not change style family between header and additional images. Do not switch from photo to dashboard, illustration to collage, warm palette to neon palette, or editorial scene to UI mockup across images. Do not add extra cards, repeated labels, duplicate headlines, contact-sheet layouts, storyboard strips, or multiple design variations inside any single image.
+
+STYLE LOCK format:
+STYLE LOCK FOR THREAD: [one style family], [one palette], [one lighting/mood], [one typography treatment], [one layout grammar]. Repeat full lock in STYLE; include a compact matching phrase in every image prompt.
+
+REALISTIC EXAMPLES:
+
+Example A - 8-tweet thread about personal story (HEADER ONLY):
+  Tweet 1: Hook → HEADER IMAGE ✅
+  Tweet 2-8: Story + opinions + CTA → NO IMAGES ✅
+  Result: 1 header only
+  Reason: No framework, checklist, workflow, comparison, data, or concrete visualizable example
+
+Example B - 9-tweet thread with one practical checklist (HEADER + 1):
+  Tweet 1: Hook → HEADER IMAGE ✅
+  Tweet 5: 5-step checklist for using AI to research a project → ADDITIONAL IMAGE ✅
+  Tweet 2-4, 6-9: Explanation text → NO IMAGES ✅
+  Result: 1 header + 1 additional
+  Reason: The checklist is useful as a saveable standalone visual
+
+Example C - 12-tweet practical framework thread (HEADER + 3):
+  Tweet 1: Hook → HEADER IMAGE ✅
+  Tweet 3: Evaluation framework → ADDITIONAL IMAGE ✅
+  Tweet 6: Red flags list → ADDITIONAL IMAGE ✅
+  Tweet 10: Comparison split-screen or case breakdown → ADDITIONAL IMAGE ✅
+  Tweet 2, 4-6, 8-9, 11-12: Text → NO IMAGES ✅
+  Result: 1 header + 3 additional
+  Reason: Three tweets become useful saveable visuals without bloating the thread
+
+TARGET DISTRIBUTION:
+- 20% of threads: header + 0 additional images (pure story/opinion threads)
+- 50% of threads: header + 1 additional image
+- 30% of threads: header + 2-3 additional images (practical framework/checklist/red-flag threads)
+
+Output format:
+**HEADER IMAGE: VISUAL BRIEF**
+[full brief with all 6 sections: CORE IDEA, CONCEPT, LAYOUT, STYLE, GENERATION PROMPT, DREAMINA SAFE PROMPT]
+
+**ADDITIONAL IMAGES: VISUAL BRIEF**
+
+(If no additional images are selected, do not print this heading. Just output header and stop.)
+
+**Tweet [N]:**
+[Explain WHY this specific tweet genuinely needs visual support - be specific]
+[full brief with all 6 sections]
+
+**Tweet [N]:**
+[Explain WHY this tweet needs visual support]
+[full brief with all 6 sections]
+
+(Only include tweets that genuinely benefit from visualization)

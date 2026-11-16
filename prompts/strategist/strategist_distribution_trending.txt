@@ -1,0 +1,16 @@
+2. Distribution target (TWITTER/TRENDING MODE):
+   - Generate 10 angles from the selected Twitter source/topic
+   - 50% current-source angles (directly tied to the selected tweet/narrative)
+   - 30% viral/hot takes (discussion-worthy, shareable, quoteable)
+   - 20% practical commentary (clear lesson or evaluation, not evergreen template)
+   - NO generic evergreen pool
+   - NO evergreen quota or evergreen-first ranking
+   
+   Focus: Relevance + engagement + useful commentary
+   
+   Hook strategy: Strong, stop-scrolling, make people curious
+   Content must be shareable and spark discussion
+   Leverage current narratives while adding educational value
+   
+   Avoid: Pure hype without substance, clickbait without delivery
+   Prioritize: Trending topics with educational framing, viral-worthy insights

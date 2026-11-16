@@ -1,0 +1,17 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+temp_*
+output/*
+logs/*
+.env
+.env.example
+*.md
+docs/
+tests/
+examples/
+twitter-data/

@@ -1,0 +1,11 @@
+2. Distribution target (USER MANUAL INPUT MODE):
+   - Generate 10 angles from the user's specific topic/idea
+   - NO generic evergreen pool
+   - NO unrelated educational/template angles
+   - NO evergreen quota or evergreen-first ranking
+
+   Focus exclusively on variations of the user's input.
+   Explore different aspects of the SAME user topic.
+   If the user gave a personal story, story/framework angles are allowed.
+   If the user gave a normal idea/topic, DO NOT invent first-person claims.
+   Each angle should be a different concrete framing of the same user-provided idea.

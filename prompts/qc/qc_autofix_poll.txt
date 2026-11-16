@@ -1,0 +1,5 @@
+- MUST include 2-4 poll options
+- Use detectable option lines: A. option text, B. option text, C. option text, D. option text
+- Poll question must include a clear question mark
+- Keep question under 280 characters
+- Optional follow-up context is allowed after the poll options

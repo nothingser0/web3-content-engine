@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  content-pipeline:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ghcr.io/nothingser0/web3-content-pipeline:latest
+    container_name: web3-content-pipeline
+    restart: unless-stopped
+    environment:
+      - TZ=Asia/Jakarta
+      - PYTHONUNBUFFERED=1
+      # Penjadwalan otomatis di dalam container:
+      - SCHEDULE_TIME=07:00          # Jam generate konten (07:00 pagi)
+      - SCHEDULE_DAYS=1,2,3,4,5      # 1=Senin s/d 5=Jumat
+      - RUN_ON_START=false           # Ubah true jika ingin langsung generate 1 saat container baru start
+    env_file:
+      - .env
+    volumes:
+      - ./output:/app/output
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./.env:/app/.env:ro
+    # Healthcheck to verify scheduler daemon is alive and ticking
+    healthcheck:
+      test: ["CMD", "python", "-c", "import sys, time, pathlib; p = pathlib.Path('/tmp/scheduler_heartbeat'); sys.exit(0 if p.exists() and (time.time() - float(p.read_text().strip())) < 120 else 1)"]
+      interval: 60s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+    # Log rotation to prevent unlimited Docker disk usage on servers/CasaOS
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    # Tip: Jika menggunakan IP Tailscale (100.x.x.x) di server Linux/CasaOS dan bridge network
+    # gagal menjangkau IP tersebut, uncomment baris di bawah:
+    # network_mode: host

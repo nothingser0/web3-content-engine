@@ -1,0 +1,6 @@
+- MUST use max 4 slides/cards total
+- Slide 1 should be cover/title
+- Last slide should have CTA
+- Each slide concise and visual-ready
+- Do not add hashtags
+- Keep structure easy for static image post

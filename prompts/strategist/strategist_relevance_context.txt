@@ -1,0 +1,102 @@
+╔══════════════════════════════════════════════════════════════╗
+║  CRITICAL CONTEXT - MUST READ BEFORE GENERATING ANGLES      ║
+╚══════════════════════════════════════════════════════════════╝
+
+📅 CURRENT DATE: {current_date}
+📅 CURRENT PERIOD: {current_month}
+
+═══════════════════════════════════════════════════════════════
+🚫 WHAT TO AVOID (OUTDATED CONTENT)
+═══════════════════════════════════════════════════════════════
+
+1. OBSOLETE EVENTS & OLD NARRATIVES (STRICTLY FORBIDDEN):
+   ❌ Airdrop farming era lama: Scroll, zkSync, LayerZero, Starknet, Arbitrum (all ended years ago - NEVER treat as active)
+   ❌ Dead trends: 2021-2022 NFT PFP bubble, old points farming without utility, primitive AMM DEX swaps
+   ❌ Any airdrop/campaign that already ended before {current_month}
+
+2. CONTEMPORARY METAS (FOCUS HERE):
+   ✅ Onchain AI Agents: autonomous agents, tokenized agent frameworks, prompt-to-tx
+   ✅ Modern Security: Permit2 drainers, session key hijacking, fake simulation bypass, Telegram bot safety
+   ✅ Next-Gen DeFi: Perp DEX onchain, funding rate dynamics, low-float high-FDV tokenomics, restaking risks
+   ✅ Account Abstraction: Smart Accounts (ERC-4337, EIP-7702), passkeys, gasless transactions
+   ✅ DePIN & PayFi: Real-world compute demand, cross-border crypto payment utility
+
+2. OUTDATED PROJECTS:
+   ❌ Projects that already rugged/dead before {current_year}
+   ❌ Testnets that already closed
+   ❌ Campaigns that already ended
+
+3. TEMPORAL WORDS FOR PAST EVENTS:
+   ❌ "besok" (tomorrow) for events that already happened
+   ❌ "minggu depan" (next week) for past deadlines
+   ❌ "bulan ini" (this month) for events in previous months
+
+═══════════════════════════════════════════════════════════════
+✅ WHAT TO GENERATE IN BATCH MODE (ALWAYS RELEVANT)
+═══════════════════════════════════════════════════════════════
+
+1. TIMELESS EDUCATIONAL CONTENT:
+   ✅ "Cara evaluasi campaign Web3 yang bener"
+   ✅ "Red flags project scam"
+   ✅ "Workflow evaluasi campaign yang aman"
+   ✅ "Tools buat track gas fee"
+
+2. EVERGREEN LESSONS:
+   ✅ "Aku rugi $X gara-gara..." (story-based, no specific date)
+   ✅ "Kesalahan yang sering dilakukan pemula"
+   ✅ "Mindset yang salah soal campaign Web3"
+
+3. CURRENT/ONGOING TOPICS:
+   ✅ "AI tools buat riset crypto" (always relevant)
+   ✅ "Cara hemat gas fee" (always relevant)
+   ✅ "DYOR framework" (timeless)
+   ✅ "Layer 2 landscape update" (ongoing evolution)
+   ✅ "Onchain reputation systems yang lagi trending"
+   ✅ "Tools monitoring wallet activity terbaru"
+
+4. TRENDING/HOT TOPICS (High Engagement):
+   ✅ "Project yang lagi hype - cara evaluasi dengan objektif"
+   ✅ "Campaign aktif bulan ini - checklist evaluasi"
+   ✅ "Trending narrative di crypto - gimana manfaatin dengan aman"
+   ✅ "Update ecosystem terbaru - impact ke researcher"
+   ✅ "Hot airdrop talks - cara filter mana yang worth it"
+   ✅ "Viral scam pattern yang lagi marak - cara avoid"
+   ✅ "Testnet yang baru launch - evaluation framework"
+
+5. GENERIC FUTURE-PROOF:
+   ✅ "Kapan kamu harus cut loss?" (no specific event)
+   ✅ "Piye carane tau project legit?" (evergreen question)
+   ✅ "Ojo percaya 'trust me bro'" (timeless warning)
+
+6. COMMUNITY ENGAGEMENT:
+   ✅ Polls: "Kamu pernah kena scam?" (always relevant)
+   ✅ Questions: "Berapa loss terbesar kamu?" (timeless)
+   ✅ Discussions: "Setuju gak kalo..." (opinion-based)
+
+═══════════════════════════════════════════════════════════════
+📊 RELEVANCE SCORING GUIDE
+═══════════════════════════════════════════════════════════════
+
+Recency Score (0-10):
+- 10: Timeless/evergreen content (educational, lessons, tools) OR highly relevant trending topics with educational framing
+- 8-9: Current ongoing topics, trending narratives, hot campaigns with proper evaluation framework
+- 6-7: Recent events (within last 3 months) with timeless lesson extraction
+- 4-5: Older events (3-6 months ago)
+- 1-3: Outdated events (>6 months or already ended)
+- 0: Completely irrelevant (past deadlines, dead projects)
+
+NOTE: Trending topics can score 8-10 if framed with educational/evaluation angle (not pure hype/promo)
+
+IMPORTANT RULES:
+1. If you mention a specific project/airdrop, make sure it's:
+   - Still active in {current_month}
+   - OR use it as past example: "Dulu waktu Scroll..." (clearly past tense)
+   
+{distribution_rule}
+
+3. When in batch mode and in doubt, use GENERIC examples:
+   - "Project X" instead of specific name
+   - "Evaluasi campaign Web3" instead of specific campaign promo
+   - "Aku pernah rugi..." instead of "Kemarin aku rugi..."
+
+═══════════════════════════════════════════════════════════════

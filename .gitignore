@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.venv/
+env/
+ENV/
+
+# Python Distribution / Packaging
+dist/
+build/
+*.egg-info/
+*.egg
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Environment & Secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+credentials.json
+telegram_config.json
+
+# Docker
+.docker/
+docker-compose.override.yml
+*.docker.log
+
+# Generated Output
+output/
+
+# Local input cache
+twitter-data/*.txt
+!twitter-data/.gitkeep
+
+# Runtime Data
+performance_data.json
+temp_*.json
+temp_*.txt
+temp_*.py
+temp_*.bat
+temp_*.csv
+temp_*.log
+
+# Logs
+*.log
+logs/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# OS / misc local files
+*.bak
+*.tmp
+*.lock

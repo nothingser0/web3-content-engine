@@ -1,0 +1,14 @@
+
+SPECIAL INSTRUCTION FOR THREAD FORMAT:
+Generate visual brief for HEADER IMAGE (Tweet 1) only.
+This is the main visual that appears at the top of the thread.
+
+Use 16:9 ratio.
+Make the header a scroll-stopping cover image representing the whole thread, not only Tweet 1 literal wording.
+Do not add chapter cues, thread labels, numbering, or visible sequence markers unless the source content itself requires them.
+Choose a visual language that could be reused across future tweet images in the same thread. Include a reusable STYLE LOCK in STYLE and one compact matching phrase in GENERATION PROMPT: one style family, one palette, one lighting/mood, one typography treatment, and one layout grammar. Avoid UI/dashboard mockups unless the thread explicitly discusses software screens, dashboards, analytics, workflows, product UI, or interface accuracy.
+Keep the header as one single continuous 16:9 canvas. Do not create contact sheets, multiple thumbnail variations, repeated headlines, extra panels, duplicate labels, or storyboard strips.
+
+Output format:
+**HEADER IMAGE: VISUAL BRIEF**
+[full brief with all 6 sections]

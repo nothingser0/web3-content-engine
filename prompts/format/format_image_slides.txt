@@ -1,0 +1,27 @@
+
+SPECIAL INSTRUCTION FOR IMAGE FORMAT:
+Generate exactly {image_slide_count} slide(s), chosen by the pipeline from 1-4 with a bias toward fewer slides. Generate separate visual brief for EACH chosen slide.
+Each slide needs its own GENERATION PROMPT. Do not create more or fewer than {image_slide_count} slide(s).
+
+Use 1:1 ratio for every slide.
+All slides must share the same style, palette, visual language, lighting, typography treatment, texture, camera distance, and layout grammar. Create one STYLE LOCK before writing slides, repeat full lock in every STYLE section, and include one short matching style-lock phrase in every GENERATION PROMPT.
+Use roles in order and stop at slide {image_slide_count}:
+- Slide 1: hero / establishing shot, maximum visual impact
+- Slide 2 if selected: detail / key insight close-up
+- Slide 3 if selected: contrast / comparison angle
+- Slide 4 if selected: closing / CTA visual
+
+Do not invent extra claims. Each slide must support the caption's actual message. Prefer visual restraint: if one strong slide carries the idea, do not stretch the concept into extra decorative slides.
+Only the subject focus may change between slides. Do not switch from photo to dashboard, illustration to collage, bright palette to dark palette, or editorial scene to UI mockup across slides. Do not add extra cards, repeated labels, duplicate headlines, contact-sheet layouts, or multiple design variations inside any single slide.
+
+STYLE LOCK format:
+STYLE LOCK FOR ALL SLIDES: [one style family], [one palette], [one lighting/mood], [one typography treatment], [one layout grammar]. Repeat full lock in STYLE; include a compact matching phrase in every slide prompt.
+
+Output format:
+**Slide 1: VISUAL BRIEF**
+[full brief with all 6 sections]
+
+**Slide 2: VISUAL BRIEF**
+[full brief with all 6 sections]
+
+etc.

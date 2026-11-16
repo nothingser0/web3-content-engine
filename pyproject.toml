@@ -1,0 +1,46 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "web3-content-pipeline"
+version = "0.1.0"
+description = "Surabaya-style Web3 content generation pipeline - AI Tools, Security, and Research Workflows"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+    {name = "Web3 Content Team"}
+]
+keywords = ["web3", "content", "ai", "surabaya", "strategist", "crypto"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
+dependencies = [
+    "requests>=2.31.0",
+    "python-dotenv>=1.0.0",
+    "click>=8.1.7",
+    "rich>=13.7.0",
+]
+
+[project.scripts]
+run-daily = "run_daily_auto:main"
+run-manual = "run_manual:main"
+run-batch = "run_batch_5x_auto:main"
+run-twitter = "run_twitter:main"
+
+[tool.setuptools.packages.find]
+include = ["src", "src.*"]
+
+[tool.black]
+line-length = 100
+target-version = ['py310', 'py311', 'py312']
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

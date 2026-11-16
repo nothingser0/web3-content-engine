@@ -1,0 +1,8 @@
+QC REPORT
+{separator}
+File: {file_name}
+Date: {generated_at}
+Format: {format_name}
+Score: {score:.2f}/1.00 ({score_percent}%)
+
+CHECKS:

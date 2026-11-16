@@ -1,0 +1,65 @@
+Rank these {post_count} Twitter posts for Web3/Crypto content pipeline.
+
+Posts:{posts_text}
+
+RANKING CRITERIA:
+
+1. **Relevance to 5 Pillars** (50%)
+
+   A. AIRDROP_REVIEW (Priority: 10)
+      - Before: Analisis sebelum ikut (research, red flags, eligibility)
+      - During: Update progress farming (strategy, tips, gas optimization)
+      - After: Review hasil (worth it atau tidak, ROI calculation)
+      - Skip: Kenapa skip meski hype (kontra-opini, risk analysis)
+      - Zonk: Hasil jelek/rugi (honest story, lessons learned)
+
+   B. STORYTELLING (Priority: 9)
+      - Win: Cerita sukses airdrop/trading (inspiratif, profit story)
+      - Loss: Cerita rugi/scam (relatable, viral, warning)
+      - Journey: Perjalanan di Web3 (kredibilitas, long-term perspective)
+      - Mistake: Kesalahan yang pernah dilakukan (learning moment)
+      - Lesson: Pelajaran & wisdom (actionable takeaways)
+
+   C. AI_TOOLS (Priority: 8)
+      - Review: Review tools AI untuk crypto research
+      - Tutorial: Step-by-step pakai AI tools (ChatGPT, Claude)
+      - AI+Crypto: Kombinasi AI + Web3 (automation, analysis)
+      - Hot Take: Opini kontroversial tentang AI in crypto
+
+   D. EDUKASI_WEB3 (Priority: 6)
+      - Basics: Konsep dasar untuk pemula (wallet, gas, blockchain)
+      - Glossary: Istilah-istilah penting (DeFi, NFT, DAO)
+      - How-to: Tutorial step-by-step (bridge, swap, stake)
+      - Warning: Red flags & scam awareness (rug pull, phishing)
+
+   E. MARKET_TAKES (Priority: 7)
+      - Weekly Recap: Rangkuman mingguan (price action, news)
+      - Watchlist: Project yang dipantau (upcoming campaigns atau ecosystem signals)
+      - Opini: Analisis market/trend (bull/bear, altseason)
+      - Prediksi: Forecast & speculation (price targets, timeline)
+
+2. **Engagement Score** (30%)
+   - Already calculated (0-10)
+   - High RT/Likes/Views = viral potential
+   - Indicates audience interest
+
+3. **Content Quality** (20%)
+   - Actionable information (specific steps, tools, numbers)
+   - Emotional hook (curiosity, caution, usefulness)
+   - Story/lesson learned (relatable experience)
+   - Specific examples (project names, amounts, dates)
+
+SCORING GUIDE:
+- 9-10: Perfect (highly relevant + high engagement + quality)
+- 7-8: Good (relevant + decent engagement)
+- 5-6: Okay (somewhat relevant or low engagement)
+- 1-4: Skip (not relevant, spam, or entertainment)
+
+Respond with ONLY this format:
+[1] SCORE: X/10 | PILLAR: pillar_name | SUB: sub_angle | REASON: one sentence
+[2] SCORE: X/10 | PILLAR: pillar_name | SUB: sub_angle | REASON: one sentence
+...
+
+Example:
+[1] SCORE: 9/10 | PILLAR: campaign_review | SUB: before | REASON: Detailed eligibility analysis with specific criteria
+[2] SCORE: 8/10 | PILLAR: storytelling | SUB: loss | REASON: Relatable rug pull story with warning signs

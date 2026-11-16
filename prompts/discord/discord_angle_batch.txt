@@ -1,0 +1,8 @@
+✅ **Angle siap — Batch Evergreen**
+
+**Topic:** {angle_title}
+**Hook:** {angle_hook}
+**Pillar:** {angle_pillar}
+**Format:** {content_format}
+
+📎 `angle.json` terlampir.
