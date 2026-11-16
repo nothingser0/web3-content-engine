@@ -1,9 +1,9 @@
-# Web3 Content Pipeline
+# Web3 Content Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Docker Image (GHCR)](https://img.shields.io/badge/ghcr.io-multi--arch-blue?logo=docker)](https://github.com/nothingser0/web3-content-pipeline/pkgs/container/web3-content-pipeline)
+[![Docker Image (GHCR)](https://img.shields.io/badge/ghcr.io-multi--arch-blue?logo=docker)](https://github.com/nothingser0/web3-content-engine/pkgs/container/web3-content-engine)
 
 An automated, multi-stage content generation pipeline for Web3 and crypto researchers. It features authentic conversational voice styling, multi-tier model fallback, automatic quality control (QC), semantic angle deduplication, and an internal scheduler daemon built for 24/7 Docker deployment.
 
@@ -36,8 +36,8 @@ An automated, multi-stage content generation pipeline for Web3 and crypto resear
 
 ```bash
 # Clone the repository
-git clone https://github.com/nothingser0/web3-content-pipeline.git
-cd web3-content-pipeline
+git clone https://github.com/nothingser0/web3-content-engine.git
+cd web3-content-engine
 
 # Install Python dependencies
 pip install -r requirements.txt
@@ -160,7 +160,7 @@ Key environment variables available in `.env`:
 ## Project Structure
 
 ```text
-web3-content-pipeline/
+web3-content-engine/
 ├── .github/workflows/        # CI/CD workflow for GHCR multi-arch builds
 ├── data/                     # Topic templates and dedup history records
 ├── output/                   # Session-based content packages

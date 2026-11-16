@@ -3,7 +3,7 @@ requires = ["setuptools>=65.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "web3-content-pipeline"
+name = "web3-content-engine"
 version = "0.1.0"
 description = "Surabaya-style Web3 content generation pipeline - AI Tools, Security, and Research Workflows"
 readme = "README.md"
