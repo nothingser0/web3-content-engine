@@ -418,8 +418,10 @@ def main():
     failures = [r for r in results if not r.get('success')]
     
     print(f"[*] Total time: {duration/60:.1f} minutes ({duration:.0f} seconds)")
-    print(f"[OK] Successful: {len(successes)}/5")
-    print(f"[X] Failed: {len(failures)}/5\n")
+    if failures:
+        print(f"[!] Status: Completed with failures ({len(successes)}/5 succeeded, {len(failures)}/5 failed)\n")
+    else:
+        print(f"[OK] Status: All completed successfully ({len(successes)}/5)\n")
     
     if successes:
         print("=" * 60)

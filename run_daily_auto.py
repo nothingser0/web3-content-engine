@@ -346,8 +346,10 @@ def main():
     
     print_header("EXECUTION SUMMARY")
     print(f"[*] Total time: {duration/60:.1f} minutes ({duration:.0f} seconds)")
-    print(f"[OK] Successful: {len(successes)}/{len(topics)}")
-    print(f"[X] Failed: {len(failures)}/{len(topics)}")
+    if failures:
+        print(f"[!] Status: Completed with failures ({len(successes)} succeeded, {len(failures)} failed)")
+    else:
+        print(f"[OK] Status: All completed successfully ({len(successes)}/{len(topics)})")
     
     return 0 if len(successes) > 0 else 1
 
